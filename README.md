@@ -1,1 +1,1 @@
-# aot-2024
+# [Advent of Typescript 2024](https://www.adventofts.com/)
